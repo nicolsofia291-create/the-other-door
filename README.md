@@ -2,11 +2,15 @@
 # the-other-door
 
 Repositorio del proyecto de videojuego The Other Door
+
 **Datos del proyecto**
 
 **Autora**: Nicol Sofia Nieto Quiroz
+
 **Programa**: Tecnólogo en Animación 3D — SENA
+
 **Ficha**: 3410924
+
 **Instructor**: Roilan Galleano
 
 ## Estructura
